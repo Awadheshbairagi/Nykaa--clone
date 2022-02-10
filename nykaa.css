@@ -1,0 +1,82 @@
+.div-link{
+	padding-top: 8px;
+	display: flex;
+	
+}
+.aayu{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div-link b{
+	color: black;
+}
+.div-link b:hover{
+	color: #fc2779;
+}
+
+
+.shopicon{
+	color: black;
+
+}
+
+.second-nav{
+	border-top: 0.5px solid #ebebeb;
+	
+}
+.abc{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.jumbotron{
+	padding: 0rem !important;
+}
+.pic{
+	padding: 0px;
+}
+
+.pic img{
+	max-width: 100%; 
+	margin: 0;
+}
+.ima{
+	max-width: 100%;
+	display: block !important;
+	padding-left: 0px;
+	padding-right: 0px;
+
+}
+.ima img{
+	width: 274px;
+}
+
+.fot img{
+	max-width: 1114px;
+}
+
+.EC img{
+
+	padding-left: 200px
+}
+
+footer{
+	color: black;
+	width: 100%;
+	background-color: 
+
+}
+.foot{
+	background-color: #8c8d94;
+}
+.link a{
+	color: white
+}
+.link a:hover{
+	color: #fc2779;
+}
+.foot1{
+	background-color: #fc2779;
+}
